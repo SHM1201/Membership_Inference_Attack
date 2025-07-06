@@ -1,6 +1,6 @@
 # 🛡️ Membership Inference Attack (MIA)
 
-This project, as a part of the Trustworthy Machine Learning Course in SoSe'25 aims to extract information from a protected target model by progressively improving a membership inference attack pipeline. We build on top of the [`yonsei-sslab/MIA`](https://github.com/yonsei-sslab/MIA) framework for efficient experimentation.
+This project, as a part of the Trustworthy Machine Learning Course in SoSe'25 aims to extract information from a protected target model by progressively improving a membership inference attack pipeline. This was built on top of the [`yonsei-sslab/MIA`](https://github.com/yonsei-sslab/MIA) framework for efficient experimentation.
 
 **🔍 Final Results:**
 - **TPR@FPR=0.05**: `0.144`
